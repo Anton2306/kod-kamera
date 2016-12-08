@@ -34,7 +34,7 @@ def matchPatch(frame, patch, color):
 ###########  Set Paths for patch #############
 
 # Paths for patch - uncomment to use
-path = "/home/pi/kryg.jpg"
+path = "/home/pi/kod-kamera/BEST_SYMBOL_EVER.png"
 patch = cv2.imread(path,0)
 
 ##############################################
